@@ -6,6 +6,8 @@ This repository contains some useful resources related to Deep Learning.
 
 - YOLOv1 - Implementation [[TensorFlow](https://www.maskaravivek.com/post/yolov1/)]
 
+- Batch Normaization [[blog](https://towardsdatascience.com/batch-normalization-in-3-levels-of-understanding-14c2da90a338)]
+
 ## Tutorials
 
 

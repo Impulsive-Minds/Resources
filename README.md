@@ -1,5 +1,7 @@
 # Resources
 
+This repository contains some useful resources related to Deep Learning.
+
 ## Blogs
 
 ## Tutorials
@@ -7,7 +9,6 @@
 ## Books
 
 - Deep Learning - By Ian Goodfellow and Yoshua Bengio and Aaron Courville [[link](./Books/DeepLearningBook.pdf)]
-
 
 ## Courses
 

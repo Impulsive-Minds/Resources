@@ -28,6 +28,11 @@ This repository contains some useful resources related to Deep Learning.
 - Yannic Kilcher (English) [[link](https://www.youtube.com/@YannicKilcher)]
 - Codebasics (English) [[link](https://www.youtube.com/@codebasics)]
 - 3Blue1Brown (English) [[link](https://www.youtube.com/c/3blue1brown)]
+- Sentdex (English) [[link](https://www.youtube.com/@sentdex)]
+- DeepLearning\.AI [[link](https://www.youtube.com/@Deeplearningai)]
+- Jeremy Howard [[link](https://www.youtube.com/@howardjeremyp)]
+- StatQuest [[link](https://www.youtube.com/@statquest)]
+
 
 ### Playlists
 

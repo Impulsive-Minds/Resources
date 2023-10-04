@@ -14,6 +14,7 @@ This repository contains some useful resources related to Deep Learning.
 
 - Deep Learning - By Ian Goodfellow and Yoshua Bengio and Aaron Courville [[link](./Books/DeepLearningBook.pdf)]
 - Neural Networks and Deep Learning - Charu C. Aggarwa [[link](http://ndl.ethernet.edu.et/bitstream/123456789/88552/1/2018_Book_NeuralNetworksAndDeepLearning.pdf)]
+- Dive into Deep Learning [[link](https://d2l.ai/)]
 
 ## Courses
 

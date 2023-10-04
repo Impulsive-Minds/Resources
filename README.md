@@ -1,1 +1,28 @@
 # Resources
+
+## Blogs
+
+## Tutorials
+
+## Books
+
+- Deep Learning - By Ian Goodfellow and Yoshua Bengio and Aaron Courville [[link](./Books/DeepLearningBook.pdf)]
+
+
+## Courses
+
+## Youtube
+
+### Channels
+
+- Krish Naik (English) [[link]()]
+- CampusX (Hindi) [[link](https://www.youtube.com/@campusx-official)]
+- Two Minute Papers (English)[[link](https://www.youtube.com/@TwoMinutePapers)]
+- Yannic Kilcher (English) [[link](https://www.youtube.com/@YannicKilcher)]
+- Codebasics (English) [[link](https://www.youtube.com/@codebasics)]
+- 3Blue1Brown (English) [[link](https://www.youtube.com/c/3blue1brown)]
+
+### Playlists
+
+- CS231n - Computer Vision Stanford University [[link1](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)] [[link2](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)]
+- CS224N - NLP Stanford University [[link](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)]
